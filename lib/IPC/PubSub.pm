@@ -1,8 +1,9 @@
 package IPC::PubSub;
-$IPC::PubSub::VERSION = '0.21';
+$IPC::PubSub::VERSION = '0.22';
 
 use 5.006;
 use strict;
+use warnings;
 use IPC::PubSub::Cacheable;
 use IPC::PubSub::Publisher;
 use IPC::PubSub::Subscriber;

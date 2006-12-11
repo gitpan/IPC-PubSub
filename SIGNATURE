@@ -14,36 +14,36 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 aeafbfb53e9a7ce5a186d16679a1205b0e2736a0 Changes
+SHA1 2753907aebf91ab100d631a694231948545b9f90 Changes
 SHA1 86de90f247630310db0c9d7677f3dc7248400928 MANIFEST
-SHA1 9f4f90ad8e837aad1be89ef41c70a68d9f38aec0 META.yml
+SHA1 0c4ee7074300947e352e38ad4981482b55d27ab1 META.yml
 SHA1 41614b2a3cd5f97787cfa46aa79f65d81b25f70f Makefile.PL
 SHA1 ce65275f8e751d83cfe1d2f0e199263532400682 README
 SHA1 9b2f9d83bcf77860f53a0c07c90a4a59ad9f5df1 inc/Module/Install.pm
 SHA1 abe32855d75ab13747cf65765af9947b7a8c3057 inc/Module/Install/Base.pm
 SHA1 95b81d1e91bd634467bf633571eff4420e9c04eb inc/Module/Install/Can.pm
 SHA1 1fe98c63cf9d7271c8cb4183ba230f152df69e26 inc/Module/Install/Fetch.pm
-SHA1 2249171a2b72cd73ff2c0a06597d29f86e5df456 inc/Module/Install/Makefile.pm
-SHA1 381bb98ea3877bba49ae85e7a7ea130645fd3dbf inc/Module/Install/Metadata.pm
+SHA1 aa4a3d87cedc972e3dc0d5d156809624e6db9416 inc/Module/Install/Makefile.pm
+SHA1 f1d4e1bbcb40bb269f36e6dc011b3ca25d3829b7 inc/Module/Install/Metadata.pm
 SHA1 0c2118868ef82ac517eb6d9c3bd93e6eb9bbf83e inc/Module/Install/Win32.pm
 SHA1 e827d6d43771032fa3df35c0ad5e5698d0e54cda inc/Module/Install/WriteAll.pm
-SHA1 e42e46ce602dcfb35001a62cdd4eefbea5a47f58 lib/IPC/PubSub.pm
-SHA1 95696136e80ff885ebc799200de60bf4d9913403 lib/IPC/PubSub/Cache.pm
-SHA1 f7333d159355d28cd7d724a08fb9e2470567ada0 lib/IPC/PubSub/Cache/DBM_Deep.pm
-SHA1 466fb0a9a5c9b614381e6ab66b7a5106e10a8c39 lib/IPC/PubSub/Cache/JiftyDBI.pm
-SHA1 18115b99128aa0a01061c659cae01e90a8f2873e lib/IPC/PubSub/Cache/JiftyDBI/Stash.pm
-SHA1 5ff4ec9ab161804b3c3d294a62f90c86f557912f lib/IPC/PubSub/Cache/JiftyDBI/Stash/Item.pm
-SHA1 1aea095f132c693b7d2b175070e09b256cb014a8 lib/IPC/PubSub/Cache/JiftyDBI/Stash/Publisher.pm
-SHA1 974f31deda6c1058a4c8824bb065cdd08a3e1362 lib/IPC/PubSub/Cache/Memcached.pm
-SHA1 d7f7c054e8f78938322e0aeeba9431955c5c0b4e lib/IPC/PubSub/Cache/PlainHash.pm
-SHA1 2e51e0a064e4815b294d7ad8d0ca53ce02322609 lib/IPC/PubSub/Cacheable.pm
-SHA1 bf0c72da0d1cdf8737bc79cb02b59b05ada79bc1 lib/IPC/PubSub/Publisher.pm
-SHA1 3c5664579c5eaacd7a5f6dfe62e34bb27346b1ed lib/IPC/PubSub/Subscriber.pm
+SHA1 635adce0017bb5928e43d398dd15440d529eb798 lib/IPC/PubSub.pm
+SHA1 d07de94608c199ca8596ca1b86fc45da4c05045c lib/IPC/PubSub/Cache.pm
+SHA1 fde1bf31e8ce2fd3b8d7eb419af0e360d4280e32 lib/IPC/PubSub/Cache/DBM_Deep.pm
+SHA1 c7cce6d3b4041628274b9b9d07e7ab704b1d8b30 lib/IPC/PubSub/Cache/JiftyDBI.pm
+SHA1 a6f3aee0362d3e8e9f7d063f5e40bbd8c6f0815e lib/IPC/PubSub/Cache/JiftyDBI/Stash.pm
+SHA1 3b270ac2da87b439cde2a2755d1bea3b2a578a05 lib/IPC/PubSub/Cache/JiftyDBI/Stash/Item.pm
+SHA1 84dd4abad24f85cc5a879dd2888134cc87351c7d lib/IPC/PubSub/Cache/JiftyDBI/Stash/Publisher.pm
+SHA1 df670f57626ba3900c5f2bfe9b9d91de42c7859c lib/IPC/PubSub/Cache/Memcached.pm
+SHA1 adaaa2bba258b95536c24d38ba3adc6ec5d8c9e4 lib/IPC/PubSub/Cache/PlainHash.pm
+SHA1 5f34b5791db8193cc06fc25df2bfe33aa6cc0951 lib/IPC/PubSub/Cacheable.pm
+SHA1 8ed88a7c02fe8146aa9255c8c48dec42142e0605 lib/IPC/PubSub/Publisher.pm
+SHA1 33e500a83f8a7be3f1d5c9486a80a41566deac3b lib/IPC/PubSub/Subscriber.pm
 SHA1 b5275d89a97c51006d86007ed028a85c59b0f3a7 t/basic.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.3 (Darwin)
 
-iD8DBQFFQWNEtLPdNzw1AaARAnj2AKCe19ABAS/OWNpl3RCLNz9TiM68GgCfXLgz
-9BaEWUT52pg9+/Ur3qT4VfU=
-=s6d2
+iD8DBQFFfOSjtLPdNzw1AaARApvNAJsGOwLtI8qRBhWr+9FYqAHDDGqY8wCdGrJs
+7jBxmW8OiX7wWlDGqL3I12Y=
+=rxET
 -----END PGP SIGNATURE-----
