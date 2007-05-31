@@ -1,5 +1,5 @@
 package IPC::PubSub;
-$IPC::PubSub::VERSION = '0.24';
+$IPC::PubSub::VERSION = '0.26';
 
 use 5.006;
 use strict;
