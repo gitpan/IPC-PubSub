@@ -14,20 +14,20 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 032ba08accdab2667ad7711a188bee4df3a17f92 Changes
+SHA1 9d2cd06a76b890aa4de33fda2761aaa5bddce6b6 Changes
 SHA1 86de90f247630310db0c9d7677f3dc7248400928 MANIFEST
-SHA1 e57d1908484911723038bc2f7373df402272d153 META.yml
+SHA1 5f5cd97cb12e8fa44d24a1f76077d30d79e2b43b META.yml
 SHA1 41614b2a3cd5f97787cfa46aa79f65d81b25f70f Makefile.PL
 SHA1 7edc5bba981fd5d734a9a095b3bddfed8d1acda0 README
-SHA1 9b2f9d83bcf77860f53a0c07c90a4a59ad9f5df1 inc/Module/Install.pm
-SHA1 abe32855d75ab13747cf65765af9947b7a8c3057 inc/Module/Install/Base.pm
-SHA1 95b81d1e91bd634467bf633571eff4420e9c04eb inc/Module/Install/Can.pm
-SHA1 1fe98c63cf9d7271c8cb4183ba230f152df69e26 inc/Module/Install/Fetch.pm
-SHA1 93377fa09ca119814598134291e2d1f6640168c3 inc/Module/Install/Makefile.pm
-SHA1 42aaa6f422c82f72e140041727235f0fac8debf8 inc/Module/Install/Metadata.pm
-SHA1 0c2118868ef82ac517eb6d9c3bd93e6eb9bbf83e inc/Module/Install/Win32.pm
-SHA1 e827d6d43771032fa3df35c0ad5e5698d0e54cda inc/Module/Install/WriteAll.pm
-SHA1 dcc37609b116e9835ac0de2892e3a929e0c509d8 lib/IPC/PubSub.pm
+SHA1 78edb89a439463e44c33a72bbee84c54d0dc8aaf inc/Module/Install.pm
+SHA1 8ea4e37df83fd0c1c050be5c8da75545c3828d9b inc/Module/Install/Base.pm
+SHA1 1da6031583c32f0d1ec073b8376102fc51427dcc inc/Module/Install/Can.pm
+SHA1 b779375b90c16af2f31f38a1dd2b5df223c7f2fb inc/Module/Install/Fetch.pm
+SHA1 2054450e1e9c1dd8056362bf4a64ae70d5d71476 inc/Module/Install/Makefile.pm
+SHA1 5d6189b2cad15cf9932a28faafd55130c8247e83 inc/Module/Install/Metadata.pm
+SHA1 02af973fae2ac3531fa6b704574b2b8cb2a08148 inc/Module/Install/Win32.pm
+SHA1 3a2eab96e91cca8d99938cda7791759ae9d97b3a inc/Module/Install/WriteAll.pm
+SHA1 a284fa09ad3457bf03e9efdb28d00821c5218285 lib/IPC/PubSub.pm
 SHA1 0ed23d984f0dc09d76ed50c16a2b0aeaa71c8648 lib/IPC/PubSub/Cache.pm
 SHA1 fde1bf31e8ce2fd3b8d7eb419af0e360d4280e32 lib/IPC/PubSub/Cache/DBM_Deep.pm
 SHA1 4a865e5f6443b2fc2cd44e4b1e9aa9aba110b9c0 lib/IPC/PubSub/Cache/JiftyDBI.pm
@@ -39,11 +39,11 @@ SHA1 adaaa2bba258b95536c24d38ba3adc6ec5d8c9e4 lib/IPC/PubSub/Cache/PlainHash.pm
 SHA1 5f34b5791db8193cc06fc25df2bfe33aa6cc0951 lib/IPC/PubSub/Cacheable.pm
 SHA1 8ed88a7c02fe8146aa9255c8c48dec42142e0605 lib/IPC/PubSub/Publisher.pm
 SHA1 33e500a83f8a7be3f1d5c9486a80a41566deac3b lib/IPC/PubSub/Subscriber.pm
-SHA1 5f55d9d0b5f717732474b6feee1fcf1cbf8f32d1 t/basic.t
+SHA1 afc073bdc3a645a7a01646c0a08f575cc365f644 t/basic.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.3 (Darwin)
 
-iD8DBQFGXp33tLPdNzw1AaARAiwUAJ9bE//fPD7yQUW08zpVjIWV4UpDKACeJbOW
-iC3Qg4RA9qEi9vZS3xbJivQ=
-=UfvM
+iD8DBQFHCy7TtLPdNzw1AaARAiomAJ9Bd0sF0LhdRYAceqh12KDWkjqgHwCfd1k4
+tB2iKTfjcZa3oZ3vD5bYD90=
+=Hy40
 -----END PGP SIGNATURE-----
